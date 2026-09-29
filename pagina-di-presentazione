@@ -1,0 +1,27 @@
+<html>
+<head> 
+<title> Pagina di presentazione </title>
+</head>
+<body>
+<h1> Presentazione </h1>
+<p> Ciao, piacere di conoscerti! Mi chiamo <strong>Lisa Irene Sciacca</strong>, ho trentuno anni e vivo in Sicilia. <br/>
+Amo molto gli animali. Nel tempo libero mi piace guardare documentari naturalistici e leggere libri sul tema. La mia passione per la letteratura spazia anche su altri generi, come la narrativa e i fumetti. <br/>
+Quest'anno ho deciso di mettermi alla prova sperimentando un nuovo hobby: l'uncinetto. Sono mesi che lo pratico e fino ad adesso mi ha dato molte soddisfazioni. <br/>
+Ho davvero molti hobby e non posso dilungarmi troppo, per qui ti lascio qui una lista dei miei hobby e interessi:
+<ul>
+<li>Videogiochi<li/>
+<li>Anime<li/>
+<li>Manga<li/>
+<li>Letteratura<li/>
+<li>Musica<li/>
+<li>Punto croce<li/>
+<li>Uncinetto<li/>
+<li>Animali<li/>
+<ul/>
+</p>
+<hr/>
+<h5>Contatti</h5>
+<p>
+<a href="mailto:lisasciacca95@gmail.com" E-mail <a/>
+Tel: 3338596785
+</p>
